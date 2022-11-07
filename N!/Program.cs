@@ -16,4 +16,4 @@ int number = Convert.ToInt32(Console.ReadLine());
 int product = ProdFromTo(number);
 Console.WriteLine(product);
 
-
+///
